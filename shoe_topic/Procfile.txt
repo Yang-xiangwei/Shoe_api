@@ -1,1 +1,0 @@
-web: python shoe_api_test.py
